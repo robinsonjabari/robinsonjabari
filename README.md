@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @robinsonjabari
+- 👋 Hi, I’m JB (@robinsonjabari)
 - 👀 I’m interested in programming, producing beats, rollerskating and cooking!
-- 🌱 I’m currently learning Javascript, HTML, CSS
-- 💞️ I’m looking to collaborate on any projects that I could learn something from
-- 📫 How to reach me...
+- 🌱 I’m currently learning Node.js and AI Development/Engineering
+- 💞️ I’m looking to collaborate on any projects that I could learn from or contribute my skill and knowledge
+- 📫 How to reach me -
+  LinkedIn: https://www.linkedin.com/in/robinson-jabari/
+  Discord: g3nerated
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Even though the blue whale is the largest animal on earth, it can’t swallow anything bigger than a beach ball.
 
