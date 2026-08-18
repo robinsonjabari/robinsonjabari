@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jabari (@robinsonjabari)
 - 👀 I’m interested in programming, producing beats, rollerskating and trading!
-- 🌱 I’m currently participating in a 10-week Full-Stack Engineering program at Revature
+- 🌱 I’m currently participating in a 10-week Full-Stack Engineering training program at Revature
 - 💞️ I’m looking to collaborate on any projects that I could learn from or contribute my skill and knowledge
 - 📫 How to reach me -
   LinkedIn: https://www.linkedin.com/in/robinson-jabari/
